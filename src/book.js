@@ -17,8 +17,12 @@ const book = {
             "subtitle": "Undivided Identity and the Dual Nature of Reality",
             "content": [
                 {
+                    type: "image",
+                    "imageUrl": "consciousness-redefined-7.png",
+                },
+                {
                     "type": "paragraph",
-                    "imageUrl": "consciousness-redefined-0.png",
+                    
                     "text": "Consciousness has always existed and will always exist. Consciousness is all that there Is. Everything arises in Consciousness. Consciousness is the sourceless source from which all phenomena, and potential arise from, inhere in, and return to. Consciousness is the only Reality that Is, and therefore the only Reality without beginning or end."
                 },
                 {
@@ -33,7 +37,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
-                    "imageUrl": "consciousness-redefined-3.png",
+                    "imageUrl": "consciousness-redefined-4.png",
                     "text": "Therefore, phenomena can neither be said to be completely real, nor can it be said to be unreal, since it arises in consciousness inevitably as a consequence of the boundless nature of Consciousness."
                 },
                 {
