@@ -282,7 +282,7 @@ const book = {
                 },
                 {
                     "type": "paragraph",
-                    "items": "Gratitude, Patience, Truthfulness, Forgiveness, Appreciation, Compassion, Understanding, Humility, Valor"
+                    "text": "Gratitude, Patience, Truthfulness, Forgiveness, Appreciation, Compassion, Understanding, Humility, Valor"
                 }
             ]
         },
