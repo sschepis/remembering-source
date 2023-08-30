@@ -281,18 +281,8 @@ const book = {
                     "text": "The virtuous pillars of this framework are:"
                 },
                 {
-                    "type": "list",
-                    "items": [
-                        "Gratitude",
-                        "Patience",
-                        "Truthfulness",
-                        "Forgiveness",
-                        "Appreciation",
-                        "Compassion",
-                        "Understanding",
-                        "Humility",
-                        "Valor"
-                    ]
+                    "type": "paragraph",
+                    "items": "Gratitude, Patience, Truthfulness, Forgiveness, Appreciation, Compassion, Understanding, Humility, Valor"
                 }
             ]
         },
