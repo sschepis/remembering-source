@@ -22,7 +22,11 @@ const book = {
                 },
                 {
                     "type": "paragraph",
-                    "text": "This text is a channeled message, delivered a couple years ago one evening after a particularly intense meditation session. It was delivered in a single sitting, and I have not edited it since. I have only added images to help the reader understand the concepts being presented. I found this text to be very helpful in my own journey, and I hope you do as well."
+                    "text": "This text is a channeled message from Source Consciousness."
+                },
+                {
+                    "type": "paragraph",
+                    "text": "It was delivered a couple years ago one evening after a particularly intense meditation session. It was delivered in a single sitting, and I have not edited it since. I have only added images to help the reader understand the concepts being presented. I found this text to be very helpful in my own journey, and I hope you do as well."
                 },
                 {
                     "type": "paragraph",
