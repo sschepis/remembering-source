@@ -12,6 +12,25 @@ const book = {
     },
     "chapters": [
         {
+            "id": "introduction",
+            "title": "Introduction",
+            "subtitle": "A channeled message from Source",
+            "content": [
+                {
+                    type: "image",
+                    "imageUrl": "consciousness-redefined-7.png",
+                },
+                {
+                    "type": "paragraph",
+                    "text": "This text is a channeled message, delivered a couple years ago one evening after a particularly intense meditation session. It was delivered in a single sitting, and I have not edited it since. I have only added images to help the reader understand the concepts being presented. I found this text to be very helpful in my own journey, and I hope you do as well."
+                },
+                {
+                    "type": "paragraph",
+                    "text": "Sebastian Schepis"
+                }
+            ]
+        },
+        {
             "id": "consciousness_and_phenomena",
             "title": "Consciousness and Phenomena",
             "subtitle": "Undivided Identity and the Dual Nature of Reality",
